@@ -1,5 +1,5 @@
 package pattern;
-
+//Pattern program by Miss Shaila
 public class Pattern_2 {
 	public static void main(String[] args) {
 		
